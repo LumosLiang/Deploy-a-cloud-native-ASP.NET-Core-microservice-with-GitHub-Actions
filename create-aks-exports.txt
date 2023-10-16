@@ -1,0 +1,5 @@
+export ESHOP_RG=eshop-learn-rg
+export ESHOP_LOCATION=eastasia
+export ESHOP_AKSNAME=eshop-learn-aks
+export ESHOP_AKSNODERG=
+export ESHOP_LBIP=20.239.231.74

@@ -1,0 +1,3 @@
+export ESHOP_LBIP=20.239.231.74
+export ESHOP_HOST=20.239.231.74
+export ESHOP_REGISTRY=eshoplearn

@@ -13,7 +13,7 @@ jobs:
     - name: Azure Login
       uses: azure/login@v1.4.5
       with:
-        creds: ${{ secrets.AZURE_CREDENTIALS }}
+        creds: ${{ secrets.AKS_CREDENTIALS }}
 
     - name: Azure Kubernetes set context
       uses: Azure/aks-set-context@v2
